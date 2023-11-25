@@ -26,7 +26,7 @@ Você pode [acessar o código fonte do projeto inicial](https://github.com/alura
 
 ## 🛠️ Abrir e rodar o projeto
 
- 🏆 
+ 🏆 Clone esse repositorio e Abra no seu Visual Studio code
 
 ## 📚 Mais informações do curso
 
